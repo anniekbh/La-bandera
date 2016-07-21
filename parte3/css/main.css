@@ -1,0 +1,15 @@
+div {
+	background-color: yellow;
+	height: 100px;
+	width:200px;
+	margin:2px;
+	display:inline-block;
+
+}
+.centro{
+	background-color: red;
+}
+p{
+	padding: 10px;
+	margin:0px;
+}

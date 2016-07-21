@@ -1,0 +1,13 @@
+div {
+	background-color: yellow;
+	height: 50px;
+	width:300px;
+	margin:2px;
+}
+.centro{
+	background-color: red;
+}
+p{
+	text-align: left;
+	padding: 10px;
+}
